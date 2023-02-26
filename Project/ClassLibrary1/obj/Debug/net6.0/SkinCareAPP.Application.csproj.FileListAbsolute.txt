@@ -1,0 +1,12 @@
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\bin\Debug\net6.0\SkinCareAPP.Application.deps.json
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\bin\Debug\net6.0\SkinCareAPP.Application.dll
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\bin\Debug\net6.0\SkinCareAPP.Application.pdb
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.csproj.AssemblyReference.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.AssemblyInfoInputs.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.AssemblyInfo.cs
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.csproj.CoreCompileInputs.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.dll
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\refint\SkinCareAPP.Application.dll
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\SkinCareAPP.Application.pdb
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\ClassLibrary1\obj\Debug\net6.0\ref\SkinCareAPP.Application.dll

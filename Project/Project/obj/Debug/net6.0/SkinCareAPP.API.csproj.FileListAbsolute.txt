@@ -1,0 +1,7 @@
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.csproj.AssemblyReference.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.AssemblyInfoInputs.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.AssemblyInfo.cs
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.csproj.CoreCompileInputs.cache
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\madal\OneDrive\Desktop\GITHUB\mturca-net7-homeworks\Project\Project\obj\Debug\net6.0\SkinCareAPP.API.MvcApplicationPartsAssemblyInfo.cache
